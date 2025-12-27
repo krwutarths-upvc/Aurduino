@@ -1,0 +1,41 @@
+Components required 
+
+1)Arduino UNO
+
+2)Small Sound Sensor (KY-038 / KY-037 type)
+
+3)I2C LCD (16×2)
+
+4)LED or Relay module
+
+5)Jumper wires
+
+
+
+
+
+
+
+🔌 CONNECTIONS
+🔹 SOUND SENSOR → ARDUINO
+Sound Sensor	Arduino
+VCC	5V
+GND	GND
+DO	D2
+
+
+
+⚠️ Adjust the potentiometer on the sensor to detect clap properly.
+
+🔹 I2C LCD → ARDUINO
+LCD Pin	Arduino UNO
+(VCC)	5V
+(GND)	GND
+SDA	A4
+SCL	A5
+
+
+🔹 LIGHT CONNECTION 
+LED →  Arduino
+Anode (+)	D8 
+Cathode (−)	GND
