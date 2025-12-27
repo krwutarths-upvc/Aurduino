@@ -39,3 +39,6 @@ SCL	A5
 LED →  Arduino
 Anode (+)	D8 
 Cathode (−)	GND
+
+
+⚠️ Remove the jumpers before uploading the code 
